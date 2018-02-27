@@ -112,7 +112,6 @@ int main()
 			
 
 	} while(turn < 15);
-
 	if(turn == 15)
 	{	
 		result = true;
@@ -143,8 +142,8 @@ void studentInfo()
 {
 	cout <<"***********************************************************************\n";
         cout <<"******              Computer Science and Engineering             ******\n";
-        cout <<"******                CSE1030- Computer Sicence I                ******\n";
-        cout <<"****** SirBralin Robertson slr0201 sirbralinrobertson@my.unt.edu ******\n";
+        cout <<"******                    Computer Sicence I                     ******\n";
+        cout <<"****** 								 ******\n";
         cout <<"***********************************************************************\n";
         cout <<"\n";
 
